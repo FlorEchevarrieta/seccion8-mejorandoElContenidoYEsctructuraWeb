@@ -46,7 +46,9 @@ a{
 .button-menu-toggle{
     display: none;
 }
-
+.greeting{
+    text-align: center;
+}
 
 @media screen and (max-width: 768px){
     .column{
